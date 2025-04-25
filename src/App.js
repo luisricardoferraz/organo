@@ -49,23 +49,23 @@ function App() {
     {
       id: uuidv4(),
       name: 'Juliana Amoasei',
-      role: 'Desenvolvedora de software e instrutora',
+      role: 'Software developer and instructor',
       image: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
       team: teams[0].name,
       favorite: false
     },
     {
       id: uuidv4(),
-      name: 'Daniel Artine',
-      role: 'Engenheiro de Software na Stone Age',
-      image: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      name: 'Luis Ricardo',
+      role: 'Software developer',
+      image: 'https://github.com/luisricardoferraz.png',
       team: teams[0].name,
       favorite: false
     },
     {
       id: uuidv4(),
       name: 'Guilherme Lima',
-      role: 'Desenvolvedor Python e JavaScript na Alura',
+      role: 'Python and Javascript developer at Alura',
       image: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
       team: teams[0].name,
       favorite: false
@@ -73,7 +73,7 @@ function App() {
     {
       id: uuidv4(),
       name: 'Paulo Silveira',
-      role: 'Hipster e CEO da Alura',
+      role: 'CEO at Alura',
       image: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
       team: teams[0].name,
       favorite: false
@@ -81,23 +81,23 @@ function App() {
     {
       id: uuidv4(),
       name: 'Juliana Amoasei',
-      role: 'Desenvolvedora de software e instrutora',
+      role: 'Software developer and instructor',
       image: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
       team: teams[1].name,
       favorite: false
     },
     {
       id: uuidv4(),
-      name: 'Daniel Artine',
-      role: 'Engenheiro de Software na Stone Age',
-      image: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      name: 'Luis Ricardo',
+      role: 'Software developer',
+      image: 'https://github.com/luisricardoferraz.png',
       team: teams[1].name,
       favorite: false
     },
     {
       id: uuidv4(),
       name: 'Guilherme Lima',
-      role: 'Desenvolvedor Python e JavaScript na Alura',
+      role: 'Python and Javascript developer at Alura',
       image: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
       team: teams[1].name,
       favorite: false
@@ -105,7 +105,7 @@ function App() {
     {
       id: uuidv4(),
       name: 'Paulo Silveira',
-      role: 'Hipster e CEO da Alura',
+      role: 'CEO at Alura',
       image: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
       team: teams[1].name,
       favorite: false
@@ -113,23 +113,23 @@ function App() {
     {
       id: uuidv4(),
       name: 'Juliana Amoasei',
-      role: 'Desenvolvedora de software e instrutora',
+      role: 'Software developer and instructor',
       image: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
       team: teams[2].name,
       favorite: false
     },
     {
       id: uuidv4(),
-      name: 'Daniel Artine',
-      role: 'Engenheiro de Software na Stone Age',
-      image: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      name: 'Luis Ricardo',
+      role: 'Software developer',
+      image: 'https://github.com/luisricardoferraz.png',
       team: teams[2].name,
       favorite: false
     },
     {
       id: uuidv4(),
       name: 'Guilherme Lima',
-      role: 'Desenvolvedor Python e JavaScript na Alura',
+      role: 'Python and Javascript developer at Alura',
       image: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
       team: teams[2].name,
       favorite: false
@@ -137,7 +137,7 @@ function App() {
     {
       id: uuidv4(),
       name: 'Paulo Silveira',
-      role: 'Hipster e CEO da Alura',
+      role: 'CEO at Alura',
       image: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
       team: teams[2].name,
       favorite: false
@@ -145,23 +145,23 @@ function App() {
     {
       id: uuidv4(),
       name: 'Juliana Amoasei',
-      role: 'Desenvolvedora de software e instrutora',
+      role: 'Software developer and instructor',
       image: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
       team: teams[3].name,
       favorite: false
     },
     {
       id: uuidv4(),
-      name: 'Daniel Artine',
-      role: 'Engenheiro de Software na Stone Age',
-      image: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      name: 'Luis Ricardo',
+      role: 'Software developer',
+      image: 'https://github.com/luisricardoferraz.png',
       team: teams[3].name,
       favorite: false
     },
     {
       id: uuidv4(),
       name: 'Guilherme Lima',
-      role: 'Desenvolvedor Python e JavaScript na Alura',
+      role: 'Python and Javascript developer at Alura',
       image: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
       team: teams[3].name,
       favorite: false
@@ -169,7 +169,7 @@ function App() {
     {
       id: uuidv4(),
       name: 'Paulo Silveira',
-      role: 'Hipster e CEO da Alura',
+      role: 'CEO at Alura',
       image: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
       team: teams[3].name,
       favorite: false
@@ -177,23 +177,23 @@ function App() {
     {
       id: uuidv4(),
       name: 'Juliana Amoasei',
-      role: 'Desenvolvedora de software e instrutora',
+      role: 'Software developer and instructor',
       image: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
       team: teams[4].name,
       favorite: false
     },
     {
       id: uuidv4(),
-      name: 'Daniel Artine',
-      role: 'Engenheiro de Software na Stone Age',
-      image: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      name: 'Luis Ricardo',
+      role: 'Software developer',
+      image: 'https://github.com/luisricardoferraz.png',
       team: teams[4].name,
       favorite: false
     },
     {
       id: uuidv4(),
       name: 'Guilherme Lima',
-      role: 'Desenvolvedor Python e JavaScript na Alura',
+      role: 'Python and Javascript developer at Alura',
       image: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
       team: teams[4].name,
       favorite: false
@@ -201,7 +201,7 @@ function App() {
     {
       id: uuidv4(),
       name: 'Paulo Silveira',
-      role: 'Hipster e CEO da Alura',
+      role: 'CEO at Alura',
       image: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
       team: teams[4].name,
       favorite: false
@@ -209,23 +209,23 @@ function App() {
     {
       id: uuidv4(),
       name: 'Juliana Amoasei',
-      role: 'Desenvolvedora de software e instrutora',
+      role: 'Software developer and instructor',
       image: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
       team: teams[5].name,
       favorite: false
     },
     {
       id: uuidv4(),
-      name: 'Daniel Artine',
-      role: 'Engenheiro de Software na Stone Age',
-      image: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      name: 'Luis Ricardo',
+      role: 'Software developer',
+      image: 'https://github.com/luisricardoferraz.png',
       team: teams[5].name,
       favorite: false
     },
     {
       id: uuidv4(),
       name: 'Guilherme Lima',
-      role: 'Desenvolvedor Python e JavaScript na Alura',
+      role: 'Python and Javascript developer at Alura',
       image: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
       team: teams[5].name,
       favorite: false
@@ -233,7 +233,7 @@ function App() {
     {
       id: uuidv4(),
       name: 'Paulo Silveira',
-      role: 'Hipster e CEO da Alura',
+      role: 'CEO at Alura',
       image: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
       team: teams[5].name,
       favorite: false
