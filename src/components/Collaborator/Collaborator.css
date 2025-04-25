@@ -1,8 +1,9 @@
 .collaborator {
+    position: relative;
     width: 280px;
 }
 
-.collaborator .header {
+.collaborator .collaborator-header {
     background-color:  #F0F0F0;
     border-radius: 10px 10px 0px 0px;
 }
@@ -13,7 +14,7 @@
     bottom: -50px;
 }
 
-.collaborator .footer {
+.collaborator .collaborator-footer {
     background: #FFFFFF;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
     border-radius: 0px 0px 10px 10px;
@@ -23,7 +24,7 @@
     flex-direction: column;
 }
 
-.collaborator .footer h4 {
+.collaborator .collaborator-footer h4 {
     color: #6278F7;
     font-size: 18px;
     line-height: 22px;
@@ -31,10 +32,24 @@
     margin-bottom: 8px;
 }
 
-.collaborator .footer h5 {
+.collaborator .collaborator-footer h5 {
     font-size: 18px;
     line-height: 22px;
     color: #212121;
     padding: 0 16px;
     display: block;
+}
+
+.collaborator .collaborator-footer .favorite {
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: 20px;
+    display: block;
+    color: #000000
+}
+
+.delete {
+    position: absolute;
+    right: -10px;
+    top: -10px;
 }
